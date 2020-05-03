@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.pavelsikun.seekbarpreference.SeekBarPreferenceCompat
+        android:defaultValue="10"
+        android:key="com.resocoder.timer.timer_length"
+        android:summary="Remember to stop the current timer so that the new one work! If there is no timer running there i no need to stop."
+        android:title="Set New Timer Length"
+        app:msbp_dialogEnabled="true"
+        app:msbp_interval="1"
+        app:msbp_maxValue="60"
+        app:msbp_measurementUnit="minutes"
+        app:msbp_minValue="1" />
+
+</android.support.v7.preference.PreferenceScreen>

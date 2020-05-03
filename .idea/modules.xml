@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EduardsTimer.iml" filepath="$PROJECT_DIR$/EduardsTimer.iml" group="EduardsTimer" />
+      <module fileurl="file://$PROJECT_DIR$/app/EduardsTimer-app.iml" filepath="$PROJECT_DIR$/app/EduardsTimer-app.iml" group="EduardsTimer/app" />
+      <module fileurl="file://$PROJECT_DIR$/TimerTutorial.iml" filepath="$PROJECT_DIR$/TimerTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
